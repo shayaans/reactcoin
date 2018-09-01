@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {Button} from 'reactstrap';
-import logo from '../../logo.svg';
 import './MainBody.css';
 
 class Header extends Component {
